@@ -20,6 +20,7 @@ import { SeedModule } from './seed/seed.module';
     CommonModule,
     
     SeedModule,
+    
 
   ],
   
