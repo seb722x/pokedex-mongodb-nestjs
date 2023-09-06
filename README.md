@@ -20,7 +20,15 @@ npm i -g @nestjs/cli
 ```
 docker-compose up -d 
 ```
+4. start
+```
+yarn start:dev
+```
 
+5. restart provisional db
+```
+localhost:3000/api/v2/seed` 
+```
 #used Stack
 *MongoDB
 *Nestjs
